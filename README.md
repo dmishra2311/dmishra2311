@@ -2,6 +2,10 @@ Hello,
 
 My name is Debadutta.
 
-I am a data analyst and currently pursuing my master's in data analytics at Binghamton University, New York. Before this, I have more than a decade of experience in data integration, analysis, engineering, and business intelligence. I have worked on creating ETL and data warehouse solutions using Talend, Python, and SQL. I have worked on analyzing and cleaning data in Excel and in databases using SQL. I have worked on creating reports using Tableau. I have worked on multiple projects in various roles, interacting with different customers.
+I am a dedicated and results-oriented Data Engineer with over a decade of experience delivering strategic guidance and innovative 
+solutions across various industries. Adept at leveraging expertise in Data Engineering, Data Warehouses, Business Intelligence, 
+ETL Development and Data Analysis to drive organizational growth and operational excellence. Skilled communicator with strong 
+analytical abilities, capable of translating complex ideas into actionable insights and fostering collaborative relationships with 
+stakeholders. Passionate about continuous learning and staying abreast of emerging trends to deliver value-driven solutions.
 
-My LinkedIn profile: www.linkedin.com/in/debadutta-mishra-deba
+My LinkedIn profile: https://www.linkedin.com/in/debadutta-mishra-deba
